@@ -1,0 +1,24 @@
+{
+  "entries": {
+    "[\"Tribium\",\"amenidades\",\"ZC1\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "ab1e8204133fd38846da3d3013fe9af3ae3cbf6d8a268ea14f7ed5cb8c100b17",
+      "outputSize": 162426,
+      "outputMtime": 1792800551796.2979
+    },
+    "[\"Tribium\",\"amenidades\",\"ZC2\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "3debeccc90f8c78f424395bd2b64c4e07093e2f78e6733f14c6e5be439967ceb",
+      "outputSize": 220617,
+      "outputMtime": 1792800552307.0642
+    }
+  }
+}
