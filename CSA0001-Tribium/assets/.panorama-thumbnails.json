@@ -19,6 +19,26 @@
       "signature": "3debeccc90f8c78f424395bd2b64c4e07093e2f78e6733f14c6e5be439967ceb",
       "outputSize": 220617,
       "outputMtime": 1792800552307.0642
+    },
+    "[\"Tribium\",\"amenidades\",\"Lobby\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": -3,
+        "fov": 94
+      },
+      "signature": "130204a61878348655d97e9778ec0c1e0136510b67015dcdf201abb0d1cfc932",
+      "outputSize": 248792,
+      "outputMtime": 1794633507453.1184
+    },
+    "[\"Tribium\",\"amenidades\",\"Terraza\"]": {
+      "pose": {
+        "pitch": -4,
+        "yaw": 30,
+        "fov": 101
+      },
+      "signature": "9ef1a2371558ff1cdfd72b573cada1b5b76db392419e69cbaaa077a348abc049",
+      "outputSize": 166634,
+      "outputMtime": 1794633513859.5437
     }
   }
 }
